@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jrlcst.couponapi.coupon.infrastructure.rest.CouponV2ControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 s -- in com.jrlcst.couponapi.coupon.infrastructure.rest.CouponV2ControllerIntegrationTest

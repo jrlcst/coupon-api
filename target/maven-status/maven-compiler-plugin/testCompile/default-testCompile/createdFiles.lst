@@ -1,0 +1,11 @@
+com/jrlcst/couponapi/coupon/infrastructure/rest/mapper/CouponRestMapperTest.class
+com/jrlcst/couponapi/coupon/application/create/CreateCouponUseCaseTest.class
+com/jrlcst/couponapi/coupon/infrastructure/persistence/mapper/CouponPersistenceMapperTest.class
+com/jrlcst/couponapi/coupon/application/find/GetCouponByIdUseCaseTest.class
+com/jrlcst/couponapi/coupon/domain/DiscountTest.class
+com/jrlcst/couponapi/coupon/infrastructure/rest/CouponV2ControllerIntegrationTest.class
+com/jrlcst/couponapi/coupon/application/delete/DeleteCouponUseCaseTest.class
+com/jrlcst/couponapi/coupon/infrastructure/rest/CouponV1ControllerIntegrationTest.class
+com/jrlcst/couponapi/coupon/infrastructure/persistence/repository/CouponRepositoryImplTest.class
+com/jrlcst/couponapi/coupon/domain/CouponTest.class
+com/jrlcst/couponapi/coupon/domain/CouponCodeTest.class
